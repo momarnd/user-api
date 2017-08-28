@@ -13,6 +13,10 @@ Add on header :
 header Name = authorization 
 header value = Basic YmlsbDphYmMxMjM=
 
+- Retrieve an user by email .
+
+  ==> GET,  http://localhost:8080/user?email=
+  
 - Retrieve an array of all users.
 
   ==> GET,  http://localhost:8080/user/all    
