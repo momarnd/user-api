@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<user 
+		email="test1@gmqil.com"
+		firstName="Thierry"
+		lastName="Henry"
+		phoneNumber="1234567890"
+		dateOfBirth="1988-05-13"
+		password="$2a$10$zZpeQa4cEbbiE1rdcdg3.eniG5DU5J8Hu7dcTyLx13oS0XukGXr2O"
+	/>
+	
+	<user 
+		email="test2@gmqil.com"
+		firstName="Ronaldo"
+		lastName="De Lima"
+		phoneNumber="0034567890"
+		dateOfBirth="1984-10-04"
+		password="$2a$10$zZpeQa4cEbbiE1rdcdg3.eniG5DU5J8Hu7dcTyLx13oS0XukGXr2O"
+	/>
+	
+	<user 
+		email="test3@gmqil.com"
+		firstName="Zinedine"
+		lastName="Zidane"
+		phoneNumber="7894567890"
+		dateOfBirth="1990-02-12"
+		password="gjhitezghtughrthrt"
+	/>
+	
+	<user 
+		email="test4@gmqil.com"
+		firstName="Javier"
+		lastName="Pastore"
+		phoneNumber="0647829384"
+		dateOfBirth="1980-09-13"
+		password="jeklzjezhgiuerhiore"
+	/>
+</dataset>
